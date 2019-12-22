@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3a6755f.chunk.css",
+    "main.js": "/static/js/main.033da62f.chunk.js",
+    "main.js.map": "/static/js/main.033da62f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dd265961.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dd265961.js.map",
+    "static/js/2.3390174e.chunk.js": "/static/js/2.3390174e.chunk.js",
+    "static/js/2.3390174e.chunk.js.map": "/static/js/2.3390174e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9f77b261ef4b1075f66c4c1c504511c1.js": "/precache-manifest.9f77b261ef4b1075f66c4c1c504511c1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e3a6755f.chunk.css.map": "/static/css/main.e3a6755f.chunk.css.map",
+    "static/js/2.3390174e.chunk.js.LICENSE": "/static/js/2.3390174e.chunk.js.LICENSE",
+    "static/media/desktop.png": "/static/media/desktop.d2abb862.png",
+    "static/media/logo.svg": "/static/media/logo.5552bd0e.svg",
+    "static/media/testimonial2.png": "/static/media/testimonial2.95e570b3.png",
+    "static/media/testimonial3.png": "/static/media/testimonial3.9c1a4401.png",
+    "static/media/thingking-man.png": "/static/media/thingking-man.e2cd277d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd265961.js",
+    "static/js/2.3390174e.chunk.js",
+    "static/css/main.e3a6755f.chunk.css",
+    "static/js/main.033da62f.chunk.js"
+  ]
+}
